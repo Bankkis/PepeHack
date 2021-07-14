@@ -2,4 +2,5 @@
   (lib (name e73-2g4m08s1c-52840)(type Legacy)(uri ${KIPRJMOD}/bankkis/e73-2g4m08s1c-52840.lib)(options "")(descr ""))
   (lib (name tp4054)(type Legacy)(uri ${KIPRJMOD}/bankkis/tp4054.lib)(options "")(descr ""))
   (lib (name Type-C)(type Legacy)(uri ${KIPRJMOD}/bankkis/Type-C.lib)(options "")(descr ""))
+  (lib (name pmw3360dm-t2qu)(type Legacy)(uri ${KIPRJMOD}/bankkis/pmw3360dm-t2qu.lib)(options "")(descr ""))
 )
